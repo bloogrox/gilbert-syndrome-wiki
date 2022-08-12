@@ -1,5 +1,4 @@
-site_name: ""
-# Cиндром Жильбера база знаний
+site_name: "Cиндром Жильбера"
 theme:
   name: material
 markdown_extensions:
@@ -8,4 +7,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
-    - Начало: 'index.md'
+  # - Начало: 'index.md'
+  - Патогенез: 'патогенез.md'
+  - Глюкуронидация: 'глюкуронидация.md'
+  - Гиперинсулинемия: 'гиперинсулиемия подавляет синтез желчных кислот.md'
